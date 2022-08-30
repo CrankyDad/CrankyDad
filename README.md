@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrankyDad
-- 👀 I’m interested in marine automation and diigitalization
+- 👀 I’m interested in marine automation and digitalization
 - 🌱 I’m currently learning Python and NodeJS
 - 💞️ I’m looking to collaborate on Signal K and related modules. E-ink dislay for Signal K
 
